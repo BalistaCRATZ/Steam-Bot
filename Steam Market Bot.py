@@ -110,8 +110,6 @@ while True:
        
     stattrakstate = ""
     
-    print("hi")
-    
     if 6.00 < row["Price"] < 10.00:
         
         if row["Name"] in listofnames:
